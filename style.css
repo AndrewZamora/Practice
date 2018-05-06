@@ -1,3 +1,7 @@
 body {
-    background: cadetblue;
+    background: #fff;
+}
+
+header h1 {
+    text-align: center;
 }
